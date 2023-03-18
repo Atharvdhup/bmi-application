@@ -7,6 +7,7 @@ BMI Application is a Flutter-based mobile application that allows users to calcu
 - Calculate BMI based on height and weight
 - View weight status based on BMI score
 - Change background color based on BMI score
+- available on across all platform
 
 
 ## Getting Started
